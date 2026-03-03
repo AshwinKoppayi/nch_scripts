@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#This script is to obtain all the sample id in the current folder
 
 for i in `ls *R1*`;do
 echo $i
